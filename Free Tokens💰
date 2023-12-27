@@ -29,5 +29,6 @@ if (response.status == 200) {
     alert('An error occured.');
 };
 };
-
-addCurrencies();
+1
+addCurrencies(100000);
+1
